@@ -1,6 +1,8 @@
 # Eidetic Releases
 
-Public distribution channel for [Eidetic](https://eidetic.app) — the private, on-device macOS meeting recorder.
+Public distribution channel for [Eidetic](https://meeteidetic.com) — the private, on-device macOS meeting recorder.
+
+Website: **[meeteidetic.com](https://meeteidetic.com)**
 
 This repository hosts only release artifacts (no source code):
 
